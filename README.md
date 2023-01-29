@@ -3,7 +3,7 @@
 This is my submission to the Maven Analytics monthly challenge. 
 ![Plato Pizza_page-0001](https://user-images.githubusercontent.com/100189411/215317874-60b6349a-337a-4bde-b2de-a69d6925a469.jpg)
 
-In this submission, My analysis answered three:
+In this submission, My analysis answered these questions:
 - What days and times do we tend to be busiest?
 - How many pizzas are we making during peak periods?
 - What are our best and worst selling pizzas?
